@@ -1,1 +1,1 @@
-# Python-Sklearn-
+$f=k*x+b$

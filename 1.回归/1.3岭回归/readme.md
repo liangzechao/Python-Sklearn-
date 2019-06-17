@@ -32,5 +32,5 @@
 
 ## [3.数据](https://github.com/liangzechao/PythonSklearnML/blob/master/1.回归/1.3岭回归/data.csv)
 
-## 4.代码
+## [4.代码](https://github.com/liangzechao/PythonSklearnML/blob/master/1.回归/1.3岭回归/RidgeRegression.py)
 

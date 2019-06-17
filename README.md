@@ -1,1 +1,1 @@
-![](https://latex.vimsky.com/images/latex_example1_3.svg)
+![](https://latex.vimsky.com/test.image.latex.php?fmt=svg&val=%255Cinline%2520%255Cdpi%257B200%257D%2520%255Cbg_white%2520%255Clarge%2520f%2520%253D%2520a*x%255E2%2520%26plus%3B%2520b*x%2520%26plus%3B%2520w&dl=1)

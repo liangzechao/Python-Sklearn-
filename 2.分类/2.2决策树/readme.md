@@ -6,7 +6,7 @@
 
 ![VLs5Wj.png](https://s2.ax1x.com/2019/06/18/VLs5Wj.png)
 
-在sklearn库中，可以使用sklearn.tree.DecisionTreeClassifier 建一个决策树用于分类，其主要参数有：
+在sklearn库中，可以使用[sklearn.tree.DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 建一个决策树用于分类，其主要参数有：
 
 - criterion ：用于选择属性的准则，可以传入“gini”代表基尼系数，或者“entropy”代表信息增益。
 

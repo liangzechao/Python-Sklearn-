@@ -10,7 +10,7 @@
 
 数字手写体识别由于其有限的类别（0~9共10个数字）成为了相对简单 的手写识别任务。DBRHD和MNIST是常用的两个数字手写识别数据集
 
-## 2.数据介绍：
+## [2.数据介绍：](https://github.com/liangzechao/PythonSklearnML/blob/master/2.分类/2.6手写识别/digits.zip)
 
 MNIST的下载链接：[http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)。
 

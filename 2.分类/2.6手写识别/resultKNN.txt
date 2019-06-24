@@ -1,0 +1,4 @@
+[Running] python -u "d:\Workplace\sklearnML\2.分类\2.6手写识别\HandWritingKNN.py"
+Total num: 946  Wrong num: 25   WrongRate: 0.0264270613108
+
+[Done] exited with code=0 in 28.22 seconds

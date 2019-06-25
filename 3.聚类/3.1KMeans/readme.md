@@ -36,11 +36,14 @@ k-means算法以k为参数，把n个对象分成k个簇，使簇内具有较高�
 ## 实验结果
 
 聚成2类：km = KMeans(n_clusters=2)
+
 ![ZkjdQs.png](https://s2.ax1x.com/2019/06/24/ZkjdQs.png)
 
 聚成3类：km = KMeans(n_clusters=3)
+
 ![ZkjoTK.png](https://s2.ax1x.com/2019/06/24/ZkjoTK.png)
 
 聚成4类：km = KMeans(n_clusters=4)
+
 ![ZkjHYD.png](https://s2.ax1x.com/2019/06/24/ZkjHYD.png)
 

@@ -1,0 +1,39 @@
+[Running] python -u "d:\Workplace\sklearnML\3.聚类\3.2DBscan\tt.py"
+Labels:
+[ 0  1  0  4  1  2  0  2  0  3 -1  0 -1 -1  0  3  1  0  3  2  2  1  2  0  1
+  1 -1 -1  0  0  0  0  1  0 -1  0  0  0  2  0  1  0 -1 -1  0  0  0  3  2  0
+ -1  1  0  1  0  0 -1  2  0  0  0  1  3  3  0  2  0 -1  3  0  0  2  0  0  0
+  2  1 -1  0  0  0  0  0  0  1 -1  0  3  1  0  1  1  0  1  0  1  0  0 -1  1
+  1  0  0  2  0  0  0  2  2  0  0  0 -1  0  0  4  0  1  2 -1  0  1  0  2  0
+ -1 -1 -1  0  1  1  3 -1  0  1  0  2  0  0  2  1  1  0  0  0  0  4 -1  0  0
+  0  0  2  0  0  0  0 -1  2  0  0  0  0  4  0  0 -1  0  2  0  0 -1  0  1  4
+  0  0 -1  1  1  0  0  2  0  0  3 -1 -1 -1  1  0  0  2  1  0 -1 -1  3  2  2
+  0  0  3  0  1  0  0  0  3  2  0 -1  0  1 -1 -1  0  2  2  1  4  0  0  1  0
+  2  0  0  0  0  1  1  0  0  1  0  4 -1 -1  0  0  0 -1 -1  1 -1  4 -1  0  2
+  2 -1  2  1  2 -1  0 -1  0  2  2  1 -1  0  1  2 -1 -1  1 -1  2 -1 -1  1  4
+  2  3  1  0  4  0  0  4  2  4  0  0  2 -1]
+Noise raito: 16.96%
+Estimated number of clusters: 5
+Silhouette Coefficient: 0.227
+Cluster  0 :
+	 number of sample: 128
+	 mean of sample: 5864.3
+	 std of sample: 3498.1
+Cluster  1 :
+	 number of sample: 46
+	 mean of sample: 36835.1
+	 std of sample: 11314.1
+Cluster  2 :
+	 number of sample: 40
+	 mean of sample: 843.2
+	 std of sample: 242.9
+Cluster  3 :
+	 number of sample: 14
+	 mean of sample: 16581.6
+	 std of sample: 1186.7
+Cluster  4 :
+	 number of sample: 12
+	 mean of sample: 338.4
+	 std of sample: 31.9
+
+[Done] exited with code=0 in 3.873 seconds
